@@ -2,7 +2,7 @@
 
 ## Objective
 
-The source code provided in this project will serve as the web application you will need to modify in order to mitigate a cross-site scripting attack. This web application was written using the `Python Flask` web framework. It is recommended that you review the [Flask documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/#quickstart) to familiarize yourself with the basics of building and deploying a Flask app (a local development server only). We will be using Flask in several subsequent assignments, to it would behoove you to spend some time learning the fundamentals. 
+The source code provided in this project will serve as the web application you will need to modify in order to mitigate a cross-site scripting attack. This web application was written using the `Python Flask` web framework. It is recommended that you review the [Flask documentation](https://flask.palletsprojects.com/en/2.0.x/quickstart/) to familiarize yourself with the basics of building and deploying a Flask app (a local development server only). We will be using Flask in several subsequent assignments, to it would behoove you to spend some time learning the fundamentals. 
 
 
 
