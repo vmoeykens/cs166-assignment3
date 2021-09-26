@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def cat_coin_stock():
-    my_netid = "jreddy1"  # Replace with your UVM NetID here!
+    my_netid = "vmoeyken"  # Replace with your UVM NetID here!
     return render_template("CatCoin_Stock.html", netid=my_netid)
 
 
